@@ -13,11 +13,11 @@ void test0() {
   }
 
   insert_bst(arr, re [3]);
-  insert_bst(arr, re [2]);
-  insert_bst(arr, re [4]);
-  insert_bst(arr, re [0]);
   insert_bst(arr, re [1]);
   insert_bst(arr, re [5]);
+  insert_bst(arr, re [0]);
+  insert_bst(arr, re [2]);
+  insert_bst(arr, re [4]);
   insert_bst(arr, re [6]);
   print_bst (arr);
 }
